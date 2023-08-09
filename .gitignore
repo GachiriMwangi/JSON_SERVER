@@ -1,0 +1,4 @@
+node_modules
+.env
+check.json
+json.js

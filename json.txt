@@ -1,0 +1,6 @@
+?name=Name of company.
+?_page=1&_limit=2
+?_sort=name&_order=asc
+?age_gte=30
+?age_gte=30&age_lte=40
+users?q=Paul
